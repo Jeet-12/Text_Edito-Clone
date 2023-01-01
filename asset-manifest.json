@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Editor-Clone/static/css/main.cbbe4d90.css",
+    "main.js": "/Text-Editor-Clone/static/js/main.5735a321.js",
+    "index.html": "/Text-Editor-Clone/index.html",
+    "main.cbbe4d90.css.map": "/Text-Editor-Clone/static/css/main.cbbe4d90.css.map",
+    "main.5735a321.js.map": "/Text-Editor-Clone/static/js/main.5735a321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbbe4d90.css",
+    "static/js/main.5735a321.js"
+  ]
+}
